@@ -11,5 +11,10 @@ ZCZC W00 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W00 60 L10 Assignment #00
 ZCZC W00 15 L41 TXT/mylog.txt related
-ZCZC W01 5 l41 TXT/mylog.txt related
-ZCZC W01 10 l03 Github and git related, including commit, push, pull 
+ZCZC W01 10 l41 TXT/mylog.txt related
+ZCZC W01 15 l03 Github and git related, including commit, push, pull
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 15 L01 SCELE/Discord related
+ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 90 L05 Quiz related including studying  
+ZCZC W01 30 L06 References/Books/Doucments/Browsing/GSGS related  
