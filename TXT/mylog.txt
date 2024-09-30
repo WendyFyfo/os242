@@ -39,3 +39,15 @@ ZCZC W03 05 L03 Github and git related, including commit, push, pull
 ZCZC W03 20 L25 C-language including Make
 ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 05 L41 TXT/mylog.txt related
+ZCZC W04 15 L43 TXT/myrank.txt related
+ZCZC W04 05 L44 TXT/myscript.sh related
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 15 L01 SCELE/Discord related
+ZCZC W04 05 L03 Github and git related, including commit, push, pull
+ZCZC W04 10 L25 C-language including Make
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 150 L32 Youtube: watching OS related topics, etc
+ZCZC W04 20 L62 Restore/Backup Virtual Debian Guest
+ZCZC W04 60 L05 Quiz related including studying
