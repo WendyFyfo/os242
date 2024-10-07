@@ -19,3 +19,7 @@ permalink: LINKS/
 ---
 * [Chapter 8: Main Memory part 1](https://www.youtube.com/watch?v=Jy_teuaj7Ic&t=7s) - The first part of main memory from Operating Systems Concepts book explained.
 * [Chapter 8: Main Memory part 2](https://www.youtube.com/watch?v=8Zw4gIqqZe0) - The second part of main memory from Operating Systems Concepts book explained.
+
+#WEEK05
+---
+* [Operating Systems Chapter 9 - Virtual Memory](https://youtu.be/KTx9RNfyFO8?si=KcwI2sYkKtAeEHFp) - Video explanation of virtual memory from Operating Systems Concepts book chapter 10. 
