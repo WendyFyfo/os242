@@ -23,3 +23,7 @@ permalink: LINKS/
 #WEEK05
 ---
 * [Operating Systems Chapter 9 - Virtual Memory](https://youtu.be/KTx9RNfyFO8?si=KcwI2sYkKtAeEHFp) - Video explanation of virtual memory from Operating Systems Concepts book chapter 10. 
+
+#WEEK06
+---
+* [Operating Systems Chapter 3 - Processes](https://youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn&si=aKkERuzvA8hwJU6P) - A youtube playlist that teach about Processes from Operating System Concepts, 10th Edition, 2018, chapter 3.
