@@ -27,3 +27,7 @@ permalink: LINKS/
 #WEEK06
 ---
 * [Operating Systems Chapter 3 - Processes](https://youtube.com/playlist?list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn&si=aKkERuzvA8hwJU6P) - A youtube playlist that teach about Processes from Operating System Concepts, 10th Edition, 2018, chapter 3.
+
+#WEEK06
+---
+* [Operating Systems Chapter 4 - Threads](https://youtube.com/playlist?list=PLBlnK6fEyqRh5YXKAPCZPVZPkdhQa9Skz&si=9DmX82N_L7Nz_h9m) - A youtube playlist that teach about threads, fork(), and exec() form Operating System Concepts, 10th Edition, 2018, chapter 4. 
