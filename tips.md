@@ -1,11 +1,11 @@
 ---
-permalink TIPS/
+permalink: TIPS/
 ---
 
-# Tips
+# Tips for future OS students :)
 
-* Baca petunjuk assigment dengan seksama dan jangan hanya copy-paste saja
-* Ikuti sesi kelas dengan baik
-* Jadikan buku rujukan OS sebagai sumber utama belajar quiz
-* have fun :)
+1.  Baca petunjuk assigment dengan seksama dan jangan hanya copy-paste saja
+2.  Ikuti sesi kelas dengan baik
+3. Jadikan buku rujukan OS sebagai sumber utama belajar quiz
+4. have fun :)
 
