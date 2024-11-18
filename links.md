@@ -32,6 +32,8 @@ permalink: LINKS/
 ---
 * [Operating Systems Chapter 4 - Threads](https://youtube.com/playlist?list=PLBlnK6fEyqRh5YXKAPCZPVZPkdhQa9Skz&si=9DmX82N_L7Nz_h9m) - A youtube playlist that teach about threads, fork(), and exec() form Operating System Concepts, 10th Edition, 2018, chapter 4. 
 
-#WEEK08
+#WEEK09
 ---
-* [Operating Systems Chapter 5 - CPU Scheduling](https://youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk&si=eaVf5xhzvZGk1tqX) - A youtube playlist that introduce CPU scheduling, CPU and I/O burst cycle, and scheduling type and criteria from Operating System Concepts, 10th Edition, 2018, chapter 5. 
+* [Operating Systems Chapter 11 - File System Implementation](https://www.nesoacademy.org/cs/03-operating-system/11-file-system-implementation/01-filesystem-implementation) - A course for chapter 11 of Operating System Concepts, 10th Edition, 2018. 
+
+
