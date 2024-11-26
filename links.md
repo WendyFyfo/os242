@@ -36,4 +36,6 @@ permalink: LINKS/
 ---
 * [Operating Systems Chapter 11 - File System Implementation](https://www.nesoacademy.org/cs/03-operating-system/11-file-system-implementation/01-filesystem-implementation) - A course for chapter 11 of Operating System Concepts, 10th Edition, 2018. 
 
-
+#WEEK10
+---
+* [9. Chapter 8: Installing Basic System Software - How to build Linux From Scratch (LFS) 12.2 - Tutori](https://youtu.be/ReIeiTqYTGc?si=Nqdg9QIDQaHnU6ZG) - A video tutorial to help you do chapter 8 of Linux From Scratch.
